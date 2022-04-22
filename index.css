@@ -9,7 +9,6 @@ h1{
     font: bold 45px Arial;
     color: white;
     text-align: center;
-    padding: 5px 10px 5px auto;
 }
 
 a{
@@ -17,6 +16,7 @@ a{
     color: white;
     display: block;
     text-align: center;
+    
 }
 
 iframe{
@@ -39,3 +39,4 @@ ul li {
 table{
     margin: auto;
 }
+

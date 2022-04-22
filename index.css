@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    font: bold 45px Arial;
+    color: white;
+    text-align: center;
+    padding: 5px 10px 5px auto;
+}
+
+a{
+    font: 22px "Calibri Light";
+    color: white;
+    display: block;
+    text-align: center;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+ul li {
+    display: inline-block;
+    
+}
+
+table{
+    margin: auto;
+}

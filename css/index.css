@@ -29,6 +29,7 @@ img{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    box-shadow: 5px 5px 7px rgba(46, 43, 43, 0.473);
 }
 
 ul li {
